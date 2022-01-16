@@ -1,4 +1,4 @@
 # Counter App
 
 
-Using HTML ,CSS and LocalStorage for storing Count Value.
+Using HTML ,CSS, JavaScript and LocalStorage for storing Count Value.
