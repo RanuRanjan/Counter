@@ -1,0 +1,41 @@
+body{
+    background-color:#CAD5E2 ;
+}
+
+
+#main{
+    width: 50%;
+    text-align: center;
+    margin: 50px auto;
+}
+.btnc{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
+.btnc>button ,#reset{
+    margin: 20px;
+    padding: 10px 40px;
+    border: none;
+    outline: none;
+    background-color:#3DBE29 ;
+    border-radius: 10px;
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+.btnc>button:hover ,#reset:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+h1{
+    color:#242B2E ;
+    text-transform:uppercase;
+    
+}
+h2{
+    color:#242B2E;
+    
+}
