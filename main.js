@@ -8,7 +8,7 @@ let reset=document.querySelector("#reset").addEventListener('click',resetCount)
 // console.log(decrement);
 
 // get the value of count from local storage
-let counter=(localStorage.getItem("countValue"));
+let counter=(localStorage.getItem("countValue")||0);
 
 // appending couter to the html
 counterStore.textContent=counter;
